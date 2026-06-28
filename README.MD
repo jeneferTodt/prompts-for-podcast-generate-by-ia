@@ -53,6 +53,11 @@ Obrigado por ouvir este episódio.
 
 Até a próxima! ///
 
+# 🎙️ Podcast - Migração para TI
+
+## 🎧 Episódio 01
+
+➡️ [Ouvir o episódio](audio/episodio-01.mp3)
 <br/><br/>
 <p>
 
