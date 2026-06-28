@@ -53,6 +53,10 @@ Obrigado por ouvir este episódio.
 
 Até a próxima! ///
 
+# 🎙️ Prompt - Capa Podcast
+
+Cria uma capa para postar no github, referente ao podcast, quero que seja um icone de mulher, cabelos longos, óculos, e expessão divertida
+
 # 🎙️ Podcast - Migração para TI
 
 ## 🎧 Episódio 01
